@@ -1,0 +1,13 @@
+.callpage{
+    .video-display{
+       
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        right: 0;
+
+    }
+}
