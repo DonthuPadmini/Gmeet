@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    display: flex;
+    
+    padding: 20px;
+    box-sizing: border-box;
+    .logo{
+        display: flex;
+        
+        width: 100%;
+        img{
+            width: 150px;
+            margin-left: 20px;
+
+        }
+    }
+    .action-btn{
+        display: flex;
+        margin-left: 50%;
+
+        .icon-block{
+            font-size: 20px;
+            padding: 10px;
+            color: rgba(11, 9, 9, 0.529);
+            
+        }
+
+    }    
+}
